@@ -8,5 +8,5 @@
 * Java & Android ❤
 * Loves to Code 👨‍💻
 * **Hobbies**: 🚴‍♂️ and 🏏 
-* Want to connect with me ? Just drop a **Hi** 👋 [here](www.linkedin.com/in/akash57
-* ) !
+* Want to connect with me ? Just drop a **Hi** 👋 [here](www.linkedin.com/in/akash57) 
+!
