@@ -1,10 +1,10 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Akash](https://patilaakash.github.io/)!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> I'm [Akash](https://patilaakash.github.io/)!
 
 ![Profile views](https://gpvc.arturio.dev/patilaakash)
 
 ### Welcome to my profile 💻
 
-* 21 year old Computer Engineering Undergraduate student 🎓
+* 22 year old Computer Engineering Undergraduate student 🎓
 * Web Developer 🌐
 * Full Stack Enthusiast  👨‍💻
 * Java & Android ❤
