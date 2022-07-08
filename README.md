@@ -5,9 +5,9 @@
 ### Welcome to my profile 💻
 
 * 22 year old Computer Engineering Undergraduate student 🎓
-* Web Developer 🌐
+* Software Developer and Tester 🌐 
 * Full Stack Enthusiast  👨‍💻
-* Java & Android ❤
+* Java & MySQL ❤
 * Loves to Code 👨‍💻
 * **Hobbies**: 🚴‍♂️ and 🏏 
 * Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/akash57/) 
