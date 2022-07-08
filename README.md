@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> I'm [Akash](https://patilaakash.github.io/)!
+## Hi there 👋 I'm [Akash](https://patilaakash.github.io/)!
 
 ![Profile views](https://gpvc.arturio.dev/patilaakash)
 
